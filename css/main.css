@@ -119,58 +119,79 @@ text-align: right;
 
 #logo {
   background-color: LightCoral;
-    width: 367px;
-      float: left;
-        font-family: Georgia, Serif;
-	  margin-top: 15px;
-	    margin-left: 5px;
-	      }
-
-	      #logo h1{
-	        padding: 0px;
-		  margin: 0px;
-		    }
-
-		    #banner {
-		      clear: both;
-		        background-image: url(http://media.gettyimages.com/videos/kawazu-cherry-tree-and-tokyo-sky-tree-video-id467953808?s=640x640);
-			  margin-left: auto;
-			    margin-right: auto;
-			      height: 325px;
-			        background-size: cover;
-				  width: 960px;
-				    background-repeat: no-repeat;
-				    }
-				    #banner h2 {
-				      font-family: Georgia, Serif;
-				        text-align: center;
-					  color: white;
-					  <<<<<<< HEAD
-					  =======
-					    margin-top: inherit;
-					    >>>>>>> development
-					      }
-#feature1 {
+  width: 367px;
   float: left;
-    width: 600px;
+  font-family: Georgia, Serif;
+  margin-top: 15px;
+  margin-left: 5px;
+}
+#logo h1{
+  padding: 0px;
+  margin: 0px;
+}
+
+#banner {
+  clear: both;
+  background-image: url(http://media.gettyimages.com/videos/kawazu-cherry-tree-and-tokyo-sky-tree-video-id467953808?s=640x640);
+  margin-left: auto;
+  margin-right: auto;
+  height: 325px;
+  background-size: cover;
+  width: 960px;
+  background-repeat: no-repeat;
+}
+#banner h2 {
+font-family: Georgia, Serif;
+text-align: center;
+color: white;
+<<<<<<< HEAD
+=======
+margin-top: inherit;
+>>>>>>> development
+}
+
+#feature1 {
+float: left;
+width: 600px;
+}
+
+#feature2 {
+float: left;
+width: 360px;
+}
+
+#feature3 {
+float: left;
+width: 360px;
+margin-top: 25px;
+text-align: center;
+}
+
+#bannerLearn {
+clear: both;
+background-image: url(http://media.istockphoto.com/photos/group-of-busy-business-people-working-in-office-top-view-picture-id607604968);
+margin-left: auto;
+margin-right: auto;
+height: 1000px;
+width: 300px;
+background-size: cover;
+background-repeat: no-repeat;
+float: left;
+}
+
+#bannerLearn h1{
+color: black;
+
+#featureLearn {
+ text-align: left;
+    float: right;
       }
 
-      #feature2 {
-        float: left;
-	  width: 360px;
-	    }
-
-	    #feature3 {
-	      float: left;
-	        width: 360px;
-		  margin-top: 25px;
-		    text-align: center;
-		      }
 #footer {
   background-color: LightCoral;
-    clear: both;
-      text-align: center;
-        }
+  clear: both;
+  text-align: center;
+     }
 
 	
 
