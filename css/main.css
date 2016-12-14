@@ -150,22 +150,6 @@ margin-top: inherit;
 >>>>>>> development
 }
 
-#feature1 {
-float: left;
-width: 600px;
-}
-
-#feature2 {
-float: left;
-width: 360px;
-}
-
-#feature3 {
-float: left;
-width: 360px;
-margin-top: 25px;
-text-align: center;
-}
 
 #bannerLearn {
 clear: both;
@@ -183,10 +167,6 @@ float: left;
 color: black;
 }
 
-#featureLearn {
- text-align: left;
-    float: right;
-      }
 #bannerContact {
 clear: both;
 background-image: url(http://media.istockphoto.com/photos/group-of-business-people-on-meeting-picture-id533551493);
@@ -201,8 +181,52 @@ background-repeat: no-repeat;
 #bannerContact h1 {
 font-family: Georgia, Serif;
 text-align: center;
-color: #647EF0;
+color: LightCoral;
 margin-top: inherit;
+}
+
+#banner img{
+width: 100%;
+}
+
+#banner h2 {
+margin: 0px;
+padding: 0px;
+font-family: Georgia, Serif;
+}
+
+
+#feature1 {
+float: left;
+width: 600px;
+}
+
+#feature2 {
+float: left;
+width: 360px;
+}
+
+#feature3 {
+float: left;
+width: 360px;
+margin-top: 25px;
+text-align: center;
+}
+
+#featureLearn {
+ text-align: left;
+     float: right;
+           }
+
+
+#featureContact1 {
+float: left;
+width: 480px;
+}
+
+#featureContact2 {
+float: left;
+width: 480px;
 }
 
 
