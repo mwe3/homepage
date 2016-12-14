@@ -181,17 +181,36 @@ float: left;
 
 #bannerLearn h1{
 color: black;
+}
 
 #featureLearn {
  text-align: left;
     float: right;
       }
+#bannerContact {
+clear: both;
+background-image: url(http://media.istockphoto.com/photos/group-of-business-people-on-meeting-picture-id533551493);
+margin-left: auto;
+margin-right: auto;
+height: 450px;
+background-size: cover;
+width: 960px;
+background-repeat: no-repeat;
+}
+
+#bannerContact h1 {
+font-family: Georgia, Serif;
+text-align: center;
+color: #647EF0;
+margin-top: inherit;
+}
+
 
 #footer {
   background-color: LightCoral;
   clear: both;
   text-align: center;
-     }
+}
 
 	
 
