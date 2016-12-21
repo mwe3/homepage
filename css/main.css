@@ -106,6 +106,7 @@ line-height: 20px;
 width: 500px;
 float: left;
 text-align: right;
+
 }
 
 li {
@@ -165,6 +166,7 @@ float: left;
 
 #bannerLearn h1{
 color: black;
+margin-left: 20px;
 }
 
 #bannerContact {
@@ -198,25 +200,19 @@ font-family: Georgia, Serif;
 
 #feature1 {
 float: left;
-width: 600px;
+width: 480px;
 }
 
 #feature2 {
 float: left;
-width: 360px;
+width: 480px;
 }
 
-#feature3 {
-float: left;
-width: 360px;
-margin-top: 25px;
-text-align: center;
-}
 
 #featureLearn {
- text-align: left;
-     float: right;
-           }
+text-align: left;
+float: right;
+}
 
 
 #featureContact1 {
