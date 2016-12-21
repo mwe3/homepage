@@ -106,7 +106,6 @@ line-height: 20px;
 width: 500px;
 float: left;
 text-align: right;
-
 }
 
 li {
@@ -116,19 +115,22 @@ display: inline;
 #menu a{
 color: black;
 text-align: right;
+padding: center;
+margin-right: 10px;
+vertical-align: center;
+font-family: Arial, sans-serif;
 }
 
 #logo {
   background-color: LightCoral;
   width: 367px;
   float: left;
-  font-family: Georgia, Serif;
-  margin-top: 15px;
-  margin-left: 5px;
 }
+
 #logo h1{
-  padding: 0px;
-  margin: 0px;
+  padding: center;
+  margin-left: 10px;
+  font-family: Arial, sans-serif;
 }
 
 #banner {
@@ -142,7 +144,7 @@ text-align: right;
   background-repeat: no-repeat;
 }
 #banner h2 {
-font-family: Georgia, Serif;
+font-family: Arial, sans-serif;
 text-align: center;
 color: white;
 <<<<<<< HEAD
@@ -166,7 +168,9 @@ float: left;
 
 #bannerLearn h1{
 color: black;
-margin-left: 20px;
+text-align: center;
+margin-left: 10px;
+font-family: Arial, sans-serif;
 }
 
 #bannerContact {
@@ -178,12 +182,13 @@ height: 450px;
 background-size: cover;
 width: 960px;
 background-repeat: no-repeat;
+text-align: center;
 }
 
-#bannerContact h1 {
-font-family: Georgia, Serif;
+#bannerContact h2 {
+font-family: Arial, sans-serif;
 text-align: center;
-color: LightCoral;
+color: white;
 margin-top: inherit;
 }
 
@@ -194,18 +199,21 @@ width: 100%;
 #banner h2 {
 margin: 0px;
 padding: 0px;
-font-family: Georgia, Serif;
+font-family: Arial; sans-serif;
 }
 
 
 #feature1 {
 float: left;
 width: 480px;
+font-family: Arial; sans-serif;
 }
 
 #feature2 {
 float: left;
 width: 480px;
+font-family: Arial; sans-serif;
+margin: center;
 }
 
 
@@ -218,11 +226,13 @@ float: right;
 #featureContact1 {
 float: left;
 width: 480px;
+font-family: Arial; sans-serif;
 }
 
 #featureContact2 {
 float: left;
 width: 480px;
+font-family: Arial; sans-serif;
 }
 
 
@@ -230,6 +240,7 @@ width: 480px;
   background-color: LightCoral;
   clear: both;
   text-align: center;
+  font-family: Arial; sans-serif;
 }
 
 	
